@@ -1,16 +1,22 @@
-## Hi there 👋
+<img src="assets/Welcome to Pooja’s Github.png" alt="Welcome to Pooja's github" >
+Hi there! I'm Pooja
 
-<!--
-**skzviz25/skzviz25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **B.Tech Student** and an aspiring **Software Engineer** with a passion for building interactive digital experiences. My work sits at the intersection of web development, game design, and cybersecurity.
 
-Here are some ideas to get you started:
+###  About Me
+-  Currently pursuing my B.Tech (4th Semester).
+-  Focused on building responsive web applications using **ReactJS**.
+-  Developing interactive games in **Unity** and **Godot** using **C#**.
+-  Interested in **Cybersecurity**.
+-  Exploring the fundamentals of **Robotics** and **Computer Networking**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Technical Stack
+- **Languages:** JavaScript, C#, C++, Python, C
+- **Web:** ReactJS, HTML5, CSS3
+- **Game Dev:** Unity, Godot
+- **Tools:** Git, VS Code, Figma, Canva
+
+---
+
+### 🤝 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/poojarana13)
