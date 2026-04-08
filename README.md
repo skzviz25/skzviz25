@@ -19,4 +19,4 @@ I am a **B.Tech Student** and an aspiring **Software Engineer** with a passion f
 ---
 
 ### 🤝 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/poojarana13)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poojarana13/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BySJq%2FUrOSD6DMN3lYYY5Pw%3D%3D)
