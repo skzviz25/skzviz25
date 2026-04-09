@@ -1,4 +1,4 @@
-<img src="assets/Welcome to Pooja’s Github.png" alt="Welcome to Pooja's github" >
+<img src="assets/Welcome to Pooja’s Github.png" alt="Welcome to Pooja's github" width=750 >
 Hi there! I'm Pooja
 
 I am a **B.Tech Student** and an aspiring **Software Engineer** with a passion for building interactive digital experiences. My work sits at the intersection of web development, game design, and cybersecurity.
